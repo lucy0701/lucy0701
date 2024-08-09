@@ -3,12 +3,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucy0701&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF700&width=435&lines=Welcome+to+Kim-hi's+Github+%E2%9D%A4%EF%B8%8F)
-
 <div align="center">
   <br>
   
-  [📧 E-mail](mailto:sasain71@gmail.com)
+  [Notion 이력서](https://www.notion.so/FrontEnd-Kim-Hi-d32b4df83f3242fc97e81added985686)
   
   <br>
   <div>
