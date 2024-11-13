@@ -5,9 +5,6 @@
 
 <div align="center">
   <br>
-  
-  [Notion 이력서](https://www.notion.so/FrontEnd-Kim-Hi-d32b4df83f3242fc97e81added985686)
-  
   <br>
   <div>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
